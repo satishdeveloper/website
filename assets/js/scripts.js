@@ -46,7 +46,7 @@
          }
 
          if (flagName == 0 && flagEmail == 0 && flagMsg == 0 && flagMob == 0) {
-             var _base_url = 'https://sundernetralaya.in/';
+             var _base_url = 'http://demo.phytoelixir.in/';
              $.ajax({
                  url: _base_url + "home/save_contact",
                  type: 'POST',
@@ -114,7 +114,7 @@
          }
 
          if (flagName == 0 && flagEmail == 0 && flagMsg == 0) {
-             var _base_url = 'https://sundernetralaya.in/';
+             var _base_url = 'http://demo.phytoelixir.in/';
              $.ajax({
                  url: _base_url + "home/save_appointment",
                  type: 'POST',
