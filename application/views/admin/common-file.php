@@ -1,0 +1,1 @@
+<?php $this->load->view('admin/admin-header');$this->load->view('admin/'.$middle_content);$this->load->view('admin/admin-footer'); ?>

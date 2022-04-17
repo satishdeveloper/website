@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-18 12:45:04 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 12:48:03 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 13:10:58 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 13:10:59 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 13:10:59 --> Severity: Notice  --> Undefined offset: 0 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/application/controllers/servicedetail.php 17
+ERROR - 2022-03-18 13:14:24 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 13:14:25 --> Severity: Warning  --> mysqli_connect(): Headers and client library minor version mismatch. Headers:100508 Library:100236 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2022-03-18 13:14:25 --> Severity: Notice  --> Undefined offset: 0 /home/u616386971/domains/sundernetralaya.in/public_html/sundernetralaya/application/controllers/servicedetail.php 17
