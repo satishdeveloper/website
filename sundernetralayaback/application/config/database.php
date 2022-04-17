@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'u616386971_sundernetralay';
+$db['default']['username'] = 'u616386971_phytoelixir';
 $db['default']['password'] = 'Spak#7&$';
-$db['default']['database'] = 'u616386971_sundernetralay';
+$db['default']['database'] = 'u616386971_phytoelixir';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'rj_';
 $db['default']['pconnect'] = TRUE;
