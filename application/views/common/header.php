@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>spitertech</title>
+    <title>Phytoelixir</title>
 
     <meta name="description" content="Faithful to our tradition, we provide the highest possible standard of care and treatment in a professional and compassionate manner to every person who avails of our services." />
     <meta name="keywords" content="Advanced & Complete eye care The aim has always been to provide the state of the art eye care facility to the people." />
@@ -142,7 +142,7 @@
                         <!-- Right Section -->
                         <div class="top-bar-right">
                             <ul class="right-top pull-left">
-                                <li><a href="https://goo.gl/maps/yNXi7vS8W618cubi7"><i class="flaticon-technology-6"></i> Sunder Netralaya- View on Google</a></li>
+                                <li><a href="https://goo.gl/maps/yNXi7vS8W618cubi7"><i class="flaticon-technology-6"></i> Phytoelixir- View on Google</a></li>
                                 <li><a href="tel: 0241 234 5499"><i class="fa fa-phone"></i> 0241 234 5499</a></li>
                             </ul>
 
