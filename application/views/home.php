@@ -191,7 +191,7 @@
             <div class="clearfix">
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
-                    <h1 style="color: red;">
+                    <h1>
                         <span class="fw-normal"></span>Our company thrives around these Core Values:
                     </h1>
                 </div>
@@ -202,15 +202,15 @@
                         <!-- Section 2 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                            <h4> # Integrity</h4>
-                            <h4># Transparency and Accountability</h4>
+                            <h3> # Integrity</h3>
+                            <h3># Transparency and Accountability</h3>
 
 
 
                             </p>
                             <p class="fontresize">
-                            <h4># Commitment</h4>
-                            <h4># Respect and Humanity</h4>
+                            <h3># Commitment</h3>
+                            <h3># Respect and Humanity</h3>
                             </p>
                         </div>
                         <!-- // Section 2 -->
@@ -218,11 +218,11 @@
                         <!-- Section 3 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                            <h4># Cooperation</h4>
-                            <h4># Determination and Persistence</h4>
+                            <h3># Cooperation</h3>
+                            <h3># Determination and Persistence</h3>
                             </p>
                             <p class="fontresize">
-                            <h4># Empathy and Care</h4>
+                            <h3># Empathy and Care</h3>
                             </p>
                         </div>
                         <!-- // Section 3 -->
