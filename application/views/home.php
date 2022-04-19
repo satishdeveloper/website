@@ -249,48 +249,7 @@ Sunder Netralay is well known and respected for our refractive practice and effo
 <!-- doctors Section
 ================================= -->
 
-<section class="hospital top-bottom-spacing white-bg">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-10 col-md-pull-1 col-md-push-1">
-            <div class="row clearfix">
-               <div class="col-md-6 marbot40">
-                  <div class="grid image-effect2 text-center">
-                     <a href="./our-team">
-                        <figure>
-                           <img src="./assets/images/drsundar.jpg" alt=" " class="img-responsive"> 
-                           <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>
-                        </figure>
-                     </a>
-                  </div>
-                  <div class="panel panel-body marbot0 text-center doctor-details">
-                     <h3 class="marbot0">Dr. Sundar Gore </h3>
-                             <p class="fontresize marbot14 color-light"><em><span class="fw-500"> M.B.B.S., D.O., M.S.(Pune University)</span></em></p>
-                                      <p class="fontresize marbot20 color-light"><em><span class="fw-500"> नेत्र तज्ञ </span></emcity/>
-</p>                      <!--<ul class="social-icons-simple social-bg-grey clearfix">-->
-                     <!--   <li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-                     <!--   <li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
-                     <!--   <li><a href="#"><i class="fa fa-youtube"></i></a></li>-->
-                     <!--</ul>-->
-                  </div>
-               </div>
-               <!-- Content --> 
-               <!-- <div class="col-md-6 marbot40">
-                  <div class="story">
-                     <h2 class="marbot20">About Our Director</h2>
-                     <p class="lead color-light marbot30">Dr. Sundar Gore, M.B.B.S., D.O., <span class="marbot30">M.S.(Pune University)Reg. No. 66711</span>.</p>
-                     <p class="fontresize marbot30">Premium, High Risk & High Volume Cataract, Phaco Microphaco (MICS), Glucoma and Cosmetic Eye Surgeon</p>
-                     <p class="fontresize"> Specialize in curing the most complex conditions related to eyes and guarantee a positive change in your life after the treatment, Clear Eye care services to everyone with affordable expense.</p>
-               <a href="<?php echo base_url();?>our-team" class="read-more transition">Read More...</a>
-                     <img src="https://sundernetralaya.inassets/images/sign.png" alt=" "> 
-                  </div>
-               </div> -->
-               <!-- Content --> 
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
+
 <!-- // doctors Section
 ================================= -->
 <section class="top-bottom-spacing grey-bg">
