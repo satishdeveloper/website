@@ -275,16 +275,16 @@ Sunder Netralay is well known and respected for our refractive practice and effo
                   </div>
                </div>
                <!-- Content --> 
-               <div class="col-md-6 marbot40">
+               <!-- <div class="col-md-6 marbot40">
                   <div class="story">
                      <h2 class="marbot20">About Our Director</h2>
                      <p class="lead color-light marbot30">Dr. Sundar Gore, M.B.B.S., D.O., <span class="marbot30">M.S.(Pune University)Reg. No. 66711</span>.</p>
                      <p class="fontresize marbot30">Premium, High Risk & High Volume Cataract, Phaco Microphaco (MICS), Glucoma and Cosmetic Eye Surgeon</p>
                      <p class="fontresize"> Specialize in curing the most complex conditions related to eyes and guarantee a positive change in your life after the treatment, Clear Eye care services to everyone with affordable expense.</p>
                <a href="<?php echo base_url();?>our-team" class="read-more transition">Read More...</a>
-                     <!--<img src="https://sundernetralaya.inassets/images/sign.png" alt=" "> -->
+                     <img src="https://sundernetralaya.inassets/images/sign.png" alt=" "> 
                   </div>
-               </div>
+               </div> -->
                <!-- Content --> 
             </div>
          </div>
