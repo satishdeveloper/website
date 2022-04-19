@@ -35,7 +35,7 @@
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
                 	<h1>
-                    	<span class="fw-normal"> </span> Sunder Netralay's Way Of Working :
+                    	<span class="fw-normal"> </span> Phytoelixir Of Working :
 
                     </h1>
                 </div>
