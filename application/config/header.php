@@ -168,7 +168,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About us </a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="<?php echo base_url();?>aboutus" class="nav-link">About Us</a></li>
-                                <li><a href="<?php echo base_url();?>patient-stories" class="nav-link">Patient Stories</a></li>
+                                <!-- <li><a href="<?php echo base_url();?>patient-stories" class="nav-link">Patient Stories</a></li> -->
                                 <li><a href="<?php echo base_url();?>our-team" class="nav-link">Our Team</a></li>
                                 
                           </ul>

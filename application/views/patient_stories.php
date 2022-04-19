@@ -10,7 +10,7 @@
                 <ol class="breadcrumb text-left fadeInRight animated">
                     <li><a href="<?php echo base_url();?>">Home</a></li>
                     <li><a href="#"> About Us </a></li>
-                    <li><a href="#">Patient Stories</a></li>
+                    <!-- <li><a href="#">Patient Stories</a></li> -->
                 </ol>
             </div>
         </div>
