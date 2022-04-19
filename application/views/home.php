@@ -69,7 +69,7 @@
             <div class="hover-content-section">
                 <div class="col-md-3 marbot40 fadeInLeft animated" data-id='1'>
                     <div class="box1-cta">
-                        <h2><span class="fw-normal">Our Business</span> Model and Strategy</h2>
+                        <h2><span class="fw-normal">Our Business</span> Model & Strategy</h2>
                         <p class="fontresize">
                             Our business strategy is designed for collaborative flexibility focused on leveraging by allowing us diversified broad array of applied Research and Development for natural product ,process based technologies and allied services with commercial prospective. Through our approach, we would save CapEx to create differentiated pipelines of marketable products and development-stage assets that we believe will provide us and our shareholders with a diversified revenue stream along with sustainable growth.
                         </p>
