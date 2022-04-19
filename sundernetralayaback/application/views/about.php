@@ -86,7 +86,7 @@
                 <!-- Left Content -->
                 <div class="col-md-5">
                     <div class="heading text-center">
-                        <p class="lead lead-lg"> <strong class="color-light"> Who we are </strong>
+                        <p class="lead lead-lg"> <strong class="color-light"> About Us </strong>
                         </p>
                     </div>
 
@@ -151,6 +151,16 @@
 
                             <div class="col-md-6 col-sm-6 fadeInRight animated" data-id='4'>
                                 <a href="<?php echo base_url(); ?>assets/images/square04.jpg" data-toggle="lightbox" data-gallery="about-gallery" data-title="Specialized in Eyecare Services" data-footer="We have specialized doctors and specialized technology which can be customized to suit your unique eye needs.">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="<?php echo base_url(); ?>assets/images/square04.jpg" alt=" " class="img-responsive fullwidth">
+                                            <figcaption><i class="fa flaticon-symbols-1 gallery-icon transition"></i></figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 col-sm-6 fadeInRight animated" data-id='4'>
+                                <a href="<?php echo base_url(); ?>assets/images/square05.jpg" data-toggle="lightbox" data-gallery="about-gallery" data-title="Specialized in Eyecare Services" data-footer="We have specialized doctors and specialized technology which can be customized to suit your unique eye needs.">
                                     <div class="grid image-effect2 marbot30">
                                         <figure>
                                             <img src="<?php echo base_url(); ?>assets/images/square04.jpg" alt=" " class="img-responsive fullwidth">
