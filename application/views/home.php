@@ -118,69 +118,7 @@
 
 <!-- Center Banner Section
 ================================= -->
-<section class="center-banner top-bottom-spacing banner-parallax">
-    <div class="color-overlay"></div>
-    <div class="container">
-        <div class="row">
-            <!-- Left Section -->
-            <div class="col-md-8 animatedParent animateOnce">
-                <div class="center-banner-content">
-                    <div class="clearfix">
-                        <div class="center-banner-title text-capitalize"><small class="label label-default">Important</small></div>
-                        <div class="offer">
-                            <small>WHEN TO CONSULT EYE DOCTOR?</small>
-                        </div>
-                        <div class="center-banner-title">Sunder netralay specialists recommend eye checkups at various stages, starting at the age of 03 years. For adults, yearly visit to their eye specialist can help in preventing severe eye diseases.
-                        </div>
-                    </div>
-                    <a href="/appointment" class="btn btn-type1 btn-big text-uppercase growIn animated slowest">Book aour appointment today <i class="fa fa-fw fa-chevron-right"></i></a>
-                    <div class="row">
-                        <div class="col-md-4 media marbot10">
-                            <div class="media-left">
-                                <i class="fa flaticon-medical-21 circle-icon"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="marbot10">Patient Care</h4>
-                                <p class="fontresize">
-                                    Both our surgeons and most of our staff have taken care of the patient.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 media marbot10">
-                            <div class="media-left">
-                                <i class="fa flaticon-medical-1 circle-icon"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="marbot10">High-Quality Standards</h4>
-                                <p class="fontresize">
-                                    Patient safety is considered as a top priority .
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 media marbot10">
-                            <div class="media-left">
-                                <i class="fa flaticon-medical-8 circle-icon"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="marbot10">Experienced Team Of Doctors</h4>
-                                <p class="fontresize">
-                                    experienced team of doctors .
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Left Section -->
 
-            <!-- Right Section -->
-            <div class="col-md-4">
-
-            </div>
-            <!-- Right Section -->
-        </div>
-    </div>
-</section>
 
 <!-- // Center Banner Section
 ================================= -->
