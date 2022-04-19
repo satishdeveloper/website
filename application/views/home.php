@@ -199,7 +199,7 @@
 
 
                     </div>
-                    <a href="<?php echo base_url(); ?>blogs" class="btn btn-type1-reverse transition"> View All NEWS AND HEALTH TIPS </a>
+                    <a href="<?php echo base_url(); ?>blogs" class="btn btn-type1-reverse transition"> View All NEWS </a>
                 </div>
                 <!-- cta 1 Section -->
                 <?php if ($blogResult) {

@@ -185,7 +185,7 @@
                                 ?>
                             </ul>
                         </li>
-                        <li class="dropdown">
+                        <!-- <li class="dropdown">
                         	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Treatment's </a>
                             <ul class="dropdown-menu" role="menu">
                                 <?php
@@ -197,7 +197,7 @@
                                    <?php } }
                                 ?>
                             </ul>
-                        </li>
+                        </li> -->
                         <li class="">
                             <a href="<?php echo base_url();?>blogs" class="" data-toggle="" role="button" aria-expanded="false">News And Health Tips </a>
                             
