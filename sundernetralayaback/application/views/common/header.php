@@ -199,7 +199,7 @@
                             </ul>
                         </li>
                         <li class="">
-                            <a href="<?php echo base_url();?>blogs" class="" data-toggle="" role="button" aria-expanded="false">News And Health Tips </a>
+                            <a href="<?php echo base_url();?>blogs" class="" data-toggle="" role="button" aria-expanded="false">News </a>
                             
                         </li>
                         <li class="">

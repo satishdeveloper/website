@@ -1,7 +1,7 @@
 <div class="left side-menu"><div class="sidebar-inner slimscrollleft"><div id="sidebar-menu"><ul>
 	
 	<li><a href="<?php echo base_url(); ?>myadmin/sliders/listview/" class="<?php if($this->router->fetch_class() == 'sliders'){ echo 'text-custom';}?>"><i class="fa fa-book"></i><span>Sliders</span></a></li>
-    <li><a href="<?php echo base_url(); ?>myadmin/blog/listview/" class="<?php if($this->router->fetch_class() == 'blog'){ echo 'text-custom';}?>"><i class="fa fa-book"></i><span>Manage News And Health Tips</span></a></li>
+    <li><a href="<?php echo base_url(); ?>myadmin/blog/listview/" class="<?php if($this->router->fetch_class() == 'blog'){ echo 'text-custom';}?>"><i class="fa fa-book"></i><span>Manage News</span></a></li>
 	<li><a href="<?php echo base_url(); ?>myadmin/services/listview/" class="<?php if($this->router->fetch_class() == 'services'){ echo 'text-custom';}?>"><i class="fa fa-book"></i><span>Manage Services</span></a></li>
 	
 	<li><a href="<?php echo base_url(); ?>myadmin/specialities/listview/" class="<?php if($this->router->fetch_class() == 'specialities'){ echo 'text-custom';}?>"><i class="fa fa-book"></i><span>Manage Specialities</span></a></li>

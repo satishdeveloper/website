@@ -327,7 +327,7 @@ Sunder Netralay is well known and respected for our refractive practice and effo
         	<div class="hover-content-section">
             	<div class="col-md-3 marbot40 fadeInLeft animated" data-id='1'>
                     <div class="box1-cta">
-                        <h2><span class="fw-normal"> </span>NEWS AND HEALTH TIPS  </h2>
+                        <h2><span class="fw-normal"> </span>News  </h2>
                         <p class="fontresize">	
                            Sunder Netralay's Way Of Working :
                           
@@ -343,7 +343,7 @@ Sunder Netralay is well known and respected for our refractive practice and effo
                       
                        
                     </div>
-                    <a href="<?php echo base_url();?>blogs" class="btn btn-type1-reverse transition"> View All NEWS AND HEALTH TIPS  </a>
+                    <a href="<?php echo base_url();?>blogs" class="btn btn-type1-reverse transition"> View All News  </a>
                 </div>
                 <!-- cta 1 Section -->
                 <?php if($blogResult){

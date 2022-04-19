@@ -159,7 +159,7 @@
                         <ul class="footer-strip-menu list-unstyled">
                           <li><a href="<?php echo base_url();?>">Home</a></li> 
                                 <li><a href="<?php echo base_url();?>aboutus">About Us</a></li>
-                                <li><a href="<?php echo base_url();?>blogs">News And Health Tips  </a></li>
+                                <li><a href="<?php echo base_url();?>blogs">News  </a></li>
                                 <li><a href="<?php echo base_url();?>contactus">Contact Us</a></li>
                             </ul>
                         </div>
