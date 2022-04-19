@@ -34,7 +34,7 @@
                   <div class="col-md-3 col-sm-6 marbot50-md-xs">
                     <h4 class="footer-title">Who We Are </h4>
                         <p class="fontresize">
-                        Sunder Netralay is well known and respected for its refractive practice and efforts in the direction to offer spectacle independence. Over the years, Sunder Netralay has expanded into an ultra-modern facility .
+                        Phytoelixir is India’s innovation based company (Startup application under progress) in the field of Biotechnology ,established in December 2021, with purpose to serve the hidden treasure of nature and bring resilience of nature by revitalizing all living beings , using scientific and innovation power to tackle some of the global challenges and create value for our stakeholders and society at large
 
 
                     </p>
