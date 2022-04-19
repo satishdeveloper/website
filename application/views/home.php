@@ -202,13 +202,13 @@
                         <!-- Section 2 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                                # Integrity
-                                # Transparency and Accountability
-                                # Commitment
-                                # Respect and Humanity
-                                # Cooperation
-                                # Determination and Persistence
-                                # Empathy and Care
+                               <h1> # Integrity</h1>
+                                <h1># Transparency and Accountability</h1>
+                                <h1># Commitment</h1>
+                                <h1># Respect and Humanity</h1>
+                                <h1># Cooperation</h1>
+                                <h1># Determination and Persistence</h1>
+                                <h1># Empathy and Care</h1>
                             </p>
                             <p class="fontresize">
                                 where Dr Seema Gore and Dr Sundar Gore have worked untiringly to bring together state-of-the-art technology and trained experienced personnel.
