@@ -202,15 +202,15 @@
                         <!-- Section 2 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                            <h1> # Integrity</h1>
-                            <h1># Transparency and Accountability</h1>
+                            <h4> # Integrity</h4>
+                            <h4># Transparency and Accountability</h4>
 
 
 
                             </p>
                             <p class="fontresize">
-                            <h1># Commitment</h1>
-                            <h1># Respect and Humanity</h1>
+                            <h4># Commitment</h4>
+                            <h4># Respect and Humanity</h4>
                             </p>
                         </div>
                         <!-- // Section 2 -->
@@ -218,11 +218,11 @@
                         <!-- Section 3 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                            <h1># Cooperation</h1>
-                            <h1># Determination and Persistence</h1>
+                            <h4># Cooperation</h4>
+                            <h4># Determination and Persistence</h4>
                             </p>
                             <p class="fontresize">
-                            <h1># Empathy and Care</h1>
+                            <h4># Empathy and Care</h4>
                             </p>
                         </div>
                         <!-- // Section 3 -->
