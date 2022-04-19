@@ -61,7 +61,7 @@
 <link rel="stylesheet" href="<?php echo base_url();?>assets/css/color/color.css">
 <!-- Custom Css -->
 
-<link rel="shortcut icon" href="<?php echo base_url();?>assets/images/logo.png" />  
+<link rel="shortcut icon" href="<?php echo base_url();?>assets/images/logo1.png" />  
 <link rel="apple-touch-icon" href="<?php echo base_url();?>assets/images/apple_touch_icon.png" />
 <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url();?>assets/images/apple_touch_icon_72x72.png" />
 <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url();?>assets/images/apple_touch_icon_114x114.png" />
