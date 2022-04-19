@@ -35,10 +35,10 @@
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
                     <h1 style="padding-top: 10px;">
-                        <span class="fw-normal"> </span> 
-                        
-                        
-                        Phytoelixir's 
+                        <span class="fw-normal"> </span>
+
+
+                        Phytoelixir's
                         Way Of Working :
 
                     </h1>
@@ -99,19 +99,19 @@
                     <div class="clearfix">
 
                         <p class="fontresize marbot30">
-                            Sunder Netralay is well known and respected for its refractive practice and efforts in the direction to offer spectacle independence.
-                            Over the years, Sunder Netralay has expanded into an ultra-modern facility with a full array of subspecialty clinics, well-integrated diagnostic, imaging and laser systems, state-of-the-art operation theatres, daycare recovery suites, sophisticated training and education facilities.
+                            Phytoelixir is India’s innovation based company (Startup application under progress) in the field of Biotechnology ,established in December 2021, with purpose to serve the hidden treasure of nature and bring resilience of nature by revitalizing all living beings , using scientific and innovation power to tackle some of the global challenges and create value for our stakeholders and society at large.
 
                         </p>
 
-                        <p class="fontresize">Advanced & Complete eye care The aim has always been to provide the state of the art eye care facility to people. It is his passion for offering the best clinical and service quality that Sunder Netralay has made a lot of progress, adding newer techniques and technology in the ever-expanding field of Ophthalmology.
+                        <p class="fontresize">Sustainability is the common thread that runs through everything we do at Phytoelixir. Accordingly, where ,other see business, we see purpose by taking ecocentric approach to innovation for providing the holistic and accessible solution related to quality Research and Development of process and product technology along with various allied services and its commercialization at affordable price .
                         </p>
                         <p class="fontresize">
-                            Sunder Netralay provides advanced diagnostic and specialist services in all aspects of Ophthalmology under one roof. Total refractive solutions for all.
+                            We focus on providing Research and Development services to the current and emerging Biotechnology, Microbiology, Phytochemistry, Fermentation Technology, imparting Education and Training along the lines of allied industrial needs and promising areas in the arena of life science with excellence.
                         </p>
-                        <!--                       	<p class="fontresize"> -->
+                        <p class="fontresize">
 
-                        <!--With clinical expertise and sophistication of diagnostic and treatment procedures, Sunder Netralay serves the needs of its patients across a wide spectrum of eye disorders related to Cornea, Retina, Paediatric Ophthalmology, Neuro-Ophthalmology and Oculoplasty.-->
+                            At Phytoelixir, we believe applying product and process technology and allied service platform in diverse fields and help to resolve bottlenecks in the Industrial Biotechnology. We reach where, there is an opportunity to make greatest impact for our stakeholders and consequently our ability to understand their needs, which allows us to move with the evolution of demand and supply of National and International market.
+                        </p>
                     </div>
                 </div>
                 <!-- Left Content -->
