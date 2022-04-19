@@ -92,7 +92,7 @@
                 <!-- Left Content -->
                 <div class="col-md-5">
                     <div class="heading text-center">
-                        <p class="lead lead-lg"> <strong class="color-light"> About Us </strong>
+                        <p class="lead lead-lg"> <strong class="color-light"> Who we are </strong>
                         </p>
                     </div>
 
@@ -110,7 +110,7 @@
                         </p>
                         <p class="fontresize">
 
-                            At Phytoelixir, we believe applying product and process technology and allied service platform in diverse fields and help to resolve bottlenecks in the Industrial Biotechnology. We reach where, there is an opportunity to make greatest impact for our stakeholders and consequently our ability to understand their needs, which allows us to move with the evolution of demand and supply of National and International market.
+                        At Phytoelixir, we believe applying product and process technology and allied service platform in diverse fields and help to resolve bottlenecks in the Industrial Biotechnology. We reach where, there is an opportunity to make greatest impact for our stakeholders and consequently our ability to understand their needs, which allows us to move with the evolution of demand and supply of National and International market.
                         </p>
                     </div>
                 </div>
