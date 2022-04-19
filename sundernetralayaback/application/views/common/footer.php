@@ -151,7 +151,8 @@
                 <div class="clearfix footer-bottom-strip">
                   <div class="col-md-6">
                     <div class="copyright marbot30-md-xs">
-                        	Copyright © 2022 <span class="bold">Sunder Netralaya</span>. All Rights Reserved. Designed by <a href="https://spitertech.com"  target="_blank"><span class="bold">Spitertech Solutions</span></a>
+                        	Copyright © 2022 <span class="bold">Phytoelixir</span>. All Rights Reserved. Designed by <a href="https://spitertech.com"  target="_blank">
+                            <span class="bold">Spitertech Solutions</span></a>
                     </div>
                     </div>
                     <div class="col-md-6">
