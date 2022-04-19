@@ -35,7 +35,11 @@
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
                     <h1>
-                        <span class="fw-normal"> </span> Phytoelixir's Way Of Working :
+                        <span class="fw-normal"> </span> 
+                        
+                        
+                        Phytoelixir's 
+                        Way Of Working :
 
                     </h1>
                 </div>
@@ -66,7 +70,7 @@
 
                             </p>
                             <p class="fontresize">
-                                Providing affordable treatment without compromising on quality
+                                <!-- Providing affordable treatment without compromising on quality -->
                             </p>
                         </div>
                         <!-- // Section 3 -->
