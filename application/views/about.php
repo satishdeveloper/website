@@ -39,7 +39,7 @@
                         
                         
                         Phytoelixir's 
-                        Way Of  :
+                        Way Of Working :
 
                     </h1>
                 </div>
