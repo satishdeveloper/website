@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<title>Sunder Netralaya</title>
+<title>Phytoelixir</title>
 
 <meta name="description" content="Faithful to our tradition, we provide the highest possible standard of care and treatment in a professional and compassionate manner to every person who avails of our services." />
 <meta name="keywords" content="Advanced & Complete eye care The aim has always been to provide the state of the art eye care facility to the people." />
