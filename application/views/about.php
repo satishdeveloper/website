@@ -92,7 +92,7 @@
                 <!-- Left Content -->
                 <div class="col-md-5">
                     <div class="heading text-center">
-                        <p class="lead lead-lg"> <strong class="color-light"> Who we are </strong>
+                        <p class="lead lead-lg"> <strong class="color-light"> About Us </strong>
                         </p>
                     </div>
 
