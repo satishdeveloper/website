@@ -191,7 +191,7 @@
             <div class="clearfix">
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
-                    <h1>
+                    <h1 style="color: red;" >
                         <span class="fw-normal"></span>Our company thrives around these Core Values:
                     </h1>
                 </div>
