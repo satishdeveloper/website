@@ -202,16 +202,15 @@
                         <!-- Section 2 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                               <h1> # Integrity</h1>
-                                <h1># Transparency and Accountability</h1>
-                                <h1># Commitment</h1>
-                                <h1># Respect and Humanity</h1>
-                                <h1># Cooperation</h1>
-                                <h1># Determination and Persistence</h1>
-                                <h1># Empathy and Care</h1>
+                            <h1> # Integrity</h1>
+                            <h1># Transparency and Accountability</h1>
+
+
+
                             </p>
                             <p class="fontresize">
-                                where Dr Seema Gore and Dr Sundar Gore have worked untiringly to bring together state-of-the-art technology and trained experienced personnel.
+                            <h1># Commitment</h1>
+                            <h1># Respect and Humanity</h1>
                             </p>
                         </div>
                         <!-- // Section 2 -->
@@ -219,10 +218,11 @@
                         <!-- Section 3 -->
                         <div class="col-md-6">
                             <p class="fontresize">
-                                It is his passion for offering the best clinical and service quality that Sunder Netralay has made a lot of progress, adding newer techniques and technology.
+                            <h1># Cooperation</h1>
+                            <h1># Determination and Persistence</h1>
                             </p>
                             <p class="fontresize">
-                                Sunder Netralay provides advanced diagnostic and specialist services in all aspects of Ophthalmology under one roof. Total refractive solutions for all.
+                            <h1># Empathy and Care</h1>
                             </p>
                         </div>
                         <!-- // Section 3 -->
