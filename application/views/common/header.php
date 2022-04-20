@@ -213,9 +213,9 @@
                                 </li>
 
                             </ul>
-                            <div class="navbar-right nav-right-center">
+                            <!-- <div class="navbar-right nav-right-center">
                                 <a href="<?php echo base_url(); ?>appointment" class="btn btn-type1 btn-sm">Book Appointment</a>
-                            </div>
+                            </div> -->
                         </div><!-- /.nav-collapse -->
                     </div>
                 </div>
