@@ -52,7 +52,8 @@
                                 </div>        
                                     <div class="media-body">
                                       <p class="fontresize marbot0">
-                                           Chitale Rd, Chaupati Karanja, Nalegaon, Ahmednagar, Maharashtra 414001 
+                                           C/O, Sigma Wineries Pvt.Ltd.
+Plot No.B-11/12,STICE,Sinnar,Nashik-422112,M.S.INDIA 
                                       </p>
                                     </div>
                                 </div>
