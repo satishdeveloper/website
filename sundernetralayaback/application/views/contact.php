@@ -91,7 +91,7 @@
                                     <i class="flaticon-technology-6 color-light location-icon"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h3 class="contact-heading">Sunder Netralaya</h3>
+                                    <h3 class="contact-heading">Phytoelixir </h3>
                                     <p class="fontresize marbot10">
                                          Chitale Rd, Chaupati Karanja, Ahmednagar, Maharashtra 414001
                                     </p>

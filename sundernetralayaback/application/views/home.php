@@ -301,7 +301,7 @@ Sunder Netralay is well known and respected for our refractive practice and effo
                     <div class="box1-cta">
                         <h2><span class="fw-normal"> </span>News  </h2>
                         <p class="fontresize">	
-                           Sunder Netralay's Way Of Working :
+                        Phytoelixir's Way Of Working :
                           
                         </p>
                          <p class="fontresize">	
