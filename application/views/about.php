@@ -240,7 +240,7 @@
 <!--                            #13, 6th Avenue, 3rd Cross Street,<br />-->
 <!--                            Alabama, NY 36310.                        </p>-->
 <!--                        <i class="flaticon-clock color-light location-icon center-block"></i>-->
-<!--                        <a href="#" class="transition reverse bold"> +1-234-567-8900 </a>                    </div>-->
+<!--                        <a href="#" class="transition reverse bold"> +91 9226195659 </a>                    </div>-->
 <!--                </li>-->
 
 <!--          <li class="fadeInLeft animated" data-id='2'>-->
@@ -254,7 +254,7 @@
 <!--                            Oswego, NY 36310.                        </p>-->
 
 <!--                        <i class="flaticon-clock color-light location-icon center-block"></i>-->
-<!--                        <a href="#" class="transition reverse bold"> +1-234-567-8900 </a>            </div>-->
+<!--                        <a href="#" class="transition reverse bold"> +91 9226195659 </a>            </div>-->
 <!--                </li>-->
 
 <!--          <li class="fadeInLeft animated" data-id='3'>-->
@@ -268,7 +268,7 @@
 <!--                            Princeton, NJ 36310.                        </p>-->
 
 <!--                        <i class="flaticon-clock color-light location-icon center-block"></i>-->
-<!--                        <a href="#" class="transition reverse bold"> +1-234-567-8900 </a>            </div>-->
+<!--                        <a href="#" class="transition reverse bold"> +91 9226195659 </a>            </div>-->
 <!--                </li>-->
 <!--          </ul>-->
 <!--        </div>-->
