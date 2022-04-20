@@ -143,7 +143,7 @@
                         <div class="top-bar-right">
                             <ul class="right-top pull-left">
                                 <li><a href="https://goo.gl/maps/yNXi7vS8W618cubi7"><i class="flaticon-technology-6"></i> Phytoelixir- View on Google</a></li>
-                                <li><a href="tel: 0241 234 5499"><i class="fa fa-phone"></i> 0241 234 5499</a></li>
+                                <li><a href="tel: +91 9226195659"><i class="fa fa-phone"></i> +91 9226195659</a></li>
                             </ul>
 
                         </div>

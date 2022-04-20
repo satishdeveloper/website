@@ -13,7 +13,7 @@
                     <div class="text-center marbot0 media">
                         <span class="media-left"><i class="fa fa-phone icon-bordered"></i></span>
                         <span class="media-body text-left media-middle">
-                            If you Have Any Questions Call Us On <a href="tel:0241 234 5499"><span class="bold">0241 234 5499</span></a>                
+                            If you Have Any Questions Call Us On <a href="tel:+91 9226195659"><span class="bold">+91 9226195659</span></a>                
                         </span>
                     </div> 
                 </div>
@@ -62,7 +62,7 @@
                                         <i class="flaticon-clock"></i>
                                   </div>        
                                     <div class="media-body">
-                                      <a href="tel:0241 234 5499">0241 234 5499</a>
+                                      <a href="tel:+91 9226195659">+91 9226195659</a>
                                       
                                   </div>
                                   

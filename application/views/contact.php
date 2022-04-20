@@ -96,7 +96,7 @@
                                          Chitale Rd, Chaupati Karanja, Ahmednagar, Maharashtra 414001
                                     </p>
                                     <p class="fontresize">
-                                        <span class="bold">Call: <a class="reverse" href="tel:0241 234 5499">0241 234 5499</a></span> <br />
+                                        <span class="bold">Call: <a class="reverse" href="tel:+91 9226195659">+91 9226195659</a></span> <br />
                                     </p>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h3 class="contact-heading">Make an appointment</h3>
-                                    <div class="call marbot0"><a class="reverse" href="tel:0241 234 5499">0241 234 5499</a></div>
+                                    <div class="call marbot0"><a class="reverse" href="tel:+91 9226195659">+91 9226195659</a></div>
                                 </div>
                             </div>
                             <!-- // Appointment -->

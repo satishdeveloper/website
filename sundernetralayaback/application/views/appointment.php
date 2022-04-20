@@ -40,14 +40,14 @@
                         <ul class="cont-det">
                             <li class="border-seperator">
                             	<h4>For Emergency</h4>
-                                <a href="tel:0241 234 5499" class="reverse fw-500">
-                                   <i class="fa fa-fw flaticon-clock location-icon color-light"></i> 0241 234 5499
+                                <a href="tel:+91 9226195659" class="reverse fw-500">
+                                   <i class="fa fa-fw flaticon-clock location-icon color-light"></i> +91 9226195659
                                 </a>
                             </li>
                             <li class="border-seperator">
                             	<h4>House Visit</h4>
-                                <a href="tel:0241 234 5499" class="reverse fw-500">
-                                   <i class="fa fa-fw flaticon-medical-21 location-icon color-light"></i> 0241 234 5499
+                                <a href="tel:+91 9226195659" class="reverse fw-500">
+                                   <i class="fa fa-fw flaticon-medical-21 location-icon color-light"></i> +91 9226195659
                                 </a>
                             </li>
                             <li>
