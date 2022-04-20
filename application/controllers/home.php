@@ -169,9 +169,9 @@ class Home extends CI_Controller{
     						 Message: {$insert_data['leadMessage']}<br /><br />
     						 From,<br /> Sunder Netralaya Hospital";
     	
-    		$headers = "From:info@sundernetralaya.in//\r\n";
-            $headers .= "Reply-To: info@sundernetralaya.in\r\n";
-            $headers .= "Return-Path: info@sundernetralaya.in//\r\n";
+    		$headers = "From:info@phytoelixir.in//\r\n";
+            $headers .= "Reply-To: info@phytoelixir.in\r\n";
+            $headers .= "Return-Path: info@phytoelixir.in//\r\n";
             $headers .= "Organization: Sender Organization\r\n";
             $headers .= "MIME-Version: 1.0\r\n";
             $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
@@ -212,9 +212,9 @@ class Home extends CI_Controller{
     						 Message: {$insert_data['content']}<br /><br />
     						 From,<br /> Sunder Netralaya Hospital";
     	
-    		$headers = "From:info@sundernetralaya.in//\r\n";
-            $headers .= "Reply-To: info@sundernetralaya.in\r\n";
-            $headers .= "Return-Path: info@sundernetralaya.in//\r\n";
+    		$headers = "From:info@phytoelixir.in//\r\n";
+            $headers .= "Reply-To: info@phytoelixir.in\r\n";
+            $headers .= "Return-Path: info@phytoelixir.in//\r\n";
             $headers .= "Organization: Sender Organization\r\n";
             $headers .= "MIME-Version: 1.0\r\n";
             $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";

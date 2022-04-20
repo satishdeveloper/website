@@ -74,7 +74,7 @@ Plot No.B-11/12,STICE,Sinnar,Nashik-422112,M.S.INDIA
                                         <i class="fa flaticon-time-1"></i>
                                   </div>        
                                     <div class="media-body">
-                                      <a href="#">info@sundernetralaya.in</a>
+                                      <a href="#">info@phytoelixir.in</a>
                                   </div>
                                 </div>
                             </div>

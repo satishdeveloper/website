@@ -53,7 +53,7 @@
                             <li>
                             	<h4>Appointment by mail</h4>
                                 <a href="#" class="reverse fw-500">
-                                   <i class="fa fa-fw flaticon-symbol location-icon color-light"></i> info@sundernetralaya.in
+                                   <i class="fa fa-fw flaticon-symbol location-icon color-light"></i> info@phytoelixir.in
                                 </a>
                             </li>
                         </ul>
