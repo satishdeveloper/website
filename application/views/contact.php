@@ -77,7 +77,7 @@
                         
                         <div class="col-md-6 marbot30">
                             <p class="fontresize"> 
-                                Sign-up using the form or call us at <span class="bold">234-567-8900+1-</span> to take advantage of this exclusive offer. 
+                                Sign-up using the form or call us at <span class="bold">+91 9226195659</span> to take advantage of this exclusive offer. 
                             </p>
                             <a href="<?php echo base_url();?>appointment" class="btn btn-type1-reverse marbot10"> Book an appointment </a>
                             <div class="border-seperator"></div>    
