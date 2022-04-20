@@ -191,9 +191,9 @@
                         <p class="fontresize">
 
 
-                            -we only give best care to your eyes.
+                            <!-- -we only give best care to your eyes. -->
                             <br>
-                            -sunder netralay hospital helping your visions
+                            <!-- -sunder netralay hospital helping your visions -->
 
                         </p>
 
