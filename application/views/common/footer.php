@@ -217,8 +217,8 @@
 <!-- // Date And Time Picker -->
 
 <!-- Google Map -->
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA83445LgI_7xAkWaYrsClIZcbW-Cc_t6Y&sensor=false"></script>
-<script type="text/javascript" src="assets/js/custom-google-map.js"></script>
+<!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA83445LgI_7xAkWaYrsClIZcbW-Cc_t6Y&sensor=false"></script> -->
+<!-- <script type="text/javascript" src="assets/js/custom-google-map.js"></script> -->
 <!-- // Google Map -->
 
 
