@@ -1,7 +1,7 @@
 <script>
  var BASE_URL='<?php echo base_url(); ?>';   
 </script>
-<link rel="shortcut icon" href="<?php echo base_url(); ?>images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="<?php echo base_url(); ?>images/logo1.png" type="image/x-icon">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 <link href="<?php echo base_url(); ?>css/fonts/fonts.css" rel="stylesheet">
 <link href="<?php echo base_url(); ?>css/init.css" rel="stylesheet">

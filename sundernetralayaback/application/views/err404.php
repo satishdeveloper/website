@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title>Spitertech | web development | app development | digital marketing servics</title>
       <!-- Favicon -->
-      <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/logo4.png">
+      <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/logo1.png">
       <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
       <!-- Typography CSS -->
