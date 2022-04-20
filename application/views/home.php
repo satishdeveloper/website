@@ -185,7 +185,7 @@
                     <div class="box1-cta">
                         <h2><span class="fw-normal"> </span>NEWS </h2>
                         <p class="fontresize">
-                            Sunder Netralay's Way Of Working :
+                        Phytoelixir's Way Of Working :
 
                         </p>
                         <p class="fontresize">

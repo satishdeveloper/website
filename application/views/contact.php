@@ -34,7 +34,7 @@
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
                     <h1>
-                        <span class="fw-normal">Sunder Netralaya </span>Eye care
+                        <span class="fw-normal">Phytoelixir </span>Eye care
                     </h1>
                 </div>
                 <!-- // Section 1 -->
@@ -91,7 +91,7 @@
                                     <i class="flaticon-technology-6 color-light location-icon"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h3 class="contact-heading">Sunder Netralaya</h3>
+                                    <h3 class="contact-heading">Phytoelixir</h3>
                                     <p class="fontresize marbot10">
                                          Chitale Rd, Chaupati Karanja, Ahmednagar, Maharashtra 414001
                                     </p>
