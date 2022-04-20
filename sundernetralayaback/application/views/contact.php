@@ -27,47 +27,7 @@
 <!-- Contact Section
 ================================================== -->
 
-<section class="top-bottom-spacing grey-bg">
-    <div class="container">
-        <div class="row">
-            <div class="clearfix">
-                <!-- Section 1 -->
-                <div class="col-md-4 marbot10">
-                    <h1>
-                        <span class="fw-normal">Accura Vision </span>Eye care Centers
-                    </h1>
-                </div>
-                <!-- // Section 1 -->
-                
-                <div class="col-md-8">
-                    <div class="row marbot20">
-                        <!-- Section 2 -->
-                        <div class="col-md-6">
-                            <p class="fontresize">
-                                We offers a complete range of eye care services including LASIK and PRK refractive surgery, eye exams, vision testing for glasses and contacts.
-                            </p>
-                            <p class="fontresize">
-                                All Laser Lasik, Cornea & Glaucoma, Laser Cataract Surgery, Brow lift services.
-                            </p>
-                        </div>
-                        <!-- // Section 2 -->
-                        
-                        <!-- Section 3 -->
-                        <div class="col-md-6">
-                            <p class="fontresize">
-                                Cornea is the eye’s outermost layer. It is the clear, dome-shaped surface that covers the front of the eye.
-                            </p>
-                            <p class="fontresize">
-                                Glaucoma is slowly damages the eyes and can causes vision loss.
-                            </p>
-                        </div>
-                        <!-- // Section 3 -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <!-- // Contact Section
 ================================================== -->
