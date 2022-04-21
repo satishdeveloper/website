@@ -238,7 +238,7 @@
                         <div class="col-md-4 marbot40 fadeInUp animated">
                             <div class="doctor-content">
                                 <div class="grid image-effect2 marbot30">
-                                    <a href="doctors-single.html">
+                                    <a href="#">
                                         <figure>
                                             <img src="<?php echo base_url() . $doctor['image']; ?>" alt=" " class="img-responsive center-block">
                                             <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>
@@ -266,7 +266,7 @@
                 <div class="row clearfix">
                     <div class="col-md-6 marbot40">
                         <div class="grid image-effect2 text-center">
-                            <a href="doctors-single.html">
+                            <a href="#">
                                 <figure>
                                     <img src="https://sundernetralaya.inassets/images/chief-doctors.jpg" alt=" " class="img-responsive">
                                     <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>

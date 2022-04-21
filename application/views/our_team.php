@@ -39,7 +39,7 @@
                 <div class="row clearfix">
                     <div class="col-md-6 marbot40">
                         <div class="grid image-effect2 text-center">
-                            <a href="doctors-single.html">
+                            <a href="#">
                                 <figure>
                                     <img src="<?php echo base_url(); ?>assets/images/Dr Anita Handore passport photo.jpeg" alt=" " class="img-responsive">
                                     <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>
@@ -108,7 +108,7 @@
             <div class="col-md-4 marbot30 fadeInRight animated" data-id='<?php echo $d + 1; ?>'>
                 <div class="text-center">
                     <!--<div class="grid image-effect2">-->
-                    <!--    <a href="doctors-single.html">-->
+                    <!--    <a href="#">-->
                     <!--        <figure>-->
                     <!--            <img src="<?php echo base_url() . $doctor['image']; ?>" alt=" " class="img-responsive">-->
                     <!--            <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>-->
