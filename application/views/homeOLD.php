@@ -297,8 +297,27 @@
                                 There are more than 52 research publications and presentations at reputed International and
                                 National research Journals and platforms at her credit. Till date, she has 12 book chapters/books
                                 published with world leading publishers. She has been effectively working as, Editor -Guest Editor
-                                for International rep</p>
-                            <p class="fontresize"> Specialize in curing the most complex conditions related to eyes and guarantee a positive change in your life after the treatment, Clear Eye care services to everyone with affordable expense, which will be matched new technology with high quality products which must exeed market trends.</p>
+                                for International reputed Journals , as well as involved in guiding the masters students of reputed
+                                Indian Universities</p>
+                            <p class="fontresize"> She has noteworthy proficiency in managing complex issues with special skills of motivational
+                                management & leadership by guiding and retaining high-performance team to develop &
+                                implement strategies for accelerated growth of organization as well as special skills to impart and
+                                transfer appropriate technology for sustainable livelihood.
+                                She efficiently served her knowledge and experience as In charge, Research and Development
+                                Dept. Sigma Wineries Pvt.Ltd., Nashik. Besides, shouldered managerial and administrative
+                                responsibilities in Educational and Social organization as a Founder, Director at S.S.C.C, Manmad,
+                                Acting Principal and faculty, at DMLT College, Manmad, Consulting member, Environmental
+                                Department ,NGO .Head of Department, Environment and Healthcare Division at Vasundhara
+                                Organization, Nashik.
+                                She has Commendably and successfully handled various responsibilities as a Key Person, In-house
+                                Functional Area Expert for Ecology and Biodiversity , Sr.project coordinator , Master trainer at
+                                Mantras Green Resources Limited ,Nashik
+                                Besides, she has efficiently worked as Programme Advisory Committee member, YCMOU,
+                                Nashik ,Co-ordinator, Agri Organic Research Foundation,Nashik. She was active Ex. Renewable
+                                Energy Committee member, MACCIA, Nashik region, Maharashtra.
+                                She has magnificently Co-ordinated as well as executed different National, State level, regional
+                                seminars, workshops ,conferences along with Public Hearings for Industrial projects ,mandated by
+                                Ministry of Environment and Forest (MoEF)..</p>
                             <p class="fontresize"> Lorem ipsum dolor sit amet, consectetur elit. Mauris sed sem purus. Nunc eros congue, imperdiet nisl ac. </p>
                             <img src="https://sundernetralaya.inassets/images/sign.png" alt=" ">
                         </div>
