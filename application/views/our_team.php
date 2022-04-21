@@ -101,11 +101,11 @@
                     <div class="col-md-6 marbot40">
                         <div class="story">
                             <h2 class="marbot20">About Our Director</h2>
-                            <p class="lead color-light marbot30">Dr. Sundar Gore, M.B.B.S. D.O. M.S. (Pune University) Reg. No. 64172 Premium, High Risk & High Valume Cataract,Phaco Microphaco (MICS) ,Glaucoma and Cosmetic Eye Surgeon</p>
+                            <p class="lead color-light marbot30">Dr.Anita V. Handore, Ph.D in Microbiology</p>
 
 
 
-                            <p class="fontresize"> SDr.Anita V. Handore is Ph.D in Microbiology, SPPU, Pune. She has masterliness in Research
+                            <p class="fontresize"> Dr.Anita V. Handore is Ph.D in Microbiology, SPPU, Pune. She has masterliness in Research
                                 & Development sector including 17 years working experience in diverse sectors with multitasking
                                 abilities .Till date, She has greatly contributed pioneering research in Biotechnology,
                                 Microbiology, Wine, Agriculture ,Health care and Nutraceutical Sectors .She has credit of one
