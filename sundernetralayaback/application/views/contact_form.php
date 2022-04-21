@@ -76,7 +76,7 @@
             <div class="foot_top_txt animatedParent">
                 <i class="fa flaticon-technology-6 map-marker foot_icon pulse animated" ></i>
                         
-                 <a href="http://">View Our Location - Google Map</a> 
+                 <a href="https://goo.gl/maps/bQiS9nPAaiaj2TFC9">View Our Location - Google Map</a> 
                 <i class="fa fa-angle-right foot_icon foot_icon1"></i>
             </div>
         </section> 
