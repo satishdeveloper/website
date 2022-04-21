@@ -81,14 +81,14 @@
                         <div class="grid image-effect2 text-center">
                             <a href="doctors-single.html">
                                 <figure>
-                                    <img src="<?php echo base_url(); ?>assets/images/drsundar.jpg" alt=" " class="img-responsive">
+                                    <img src="<?php echo base_url(); ?>assets/images/Dr Anita Handore passport photo.jpeg" alt=" " class="img-responsive">
                                     <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>
                                 </figure>
                             </a>
                         </div>
                         <div class="panel panel-body marbot0 text-center doctor-details">
-                            <h3 class="marbot0">Dr. Sundar Gore, M.B.B.S. D.O. M.S. (Pune University) Reg. No. 64172 </h3>
-                            <p class="fontresize marbot20 color-light"><em><span class="fw-500">नेत्र तज्ञ </span></em></p>
+                            <h3 class="marbot0">Dr.Anita V. Handore, Ph.D in Microbiology </h3>
+                            <p class="fontresize marbot20 color-light"><em><span class="fw-500"> </span></em></p>
                             <ul class="social-icons-simple social-bg-grey clearfix">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
