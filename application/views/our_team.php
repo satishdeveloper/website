@@ -61,7 +61,7 @@
                     <div class="col-md-6 marbot40">
                         <div class="story">
                             <h2 class="marbot20">About Our Director</h2>
-                            <p class="lead color-light marbot30">Dr.Anita V. Handore, Ph.D in Microbiology</p>
+                            <p class="lead color-light marbot30">Ph.D in Microbiology,From SPPU, Pune.</p>
 
 
 
